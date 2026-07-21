@@ -3,7 +3,9 @@
 An intuition-first introduction to classical machine learning, designed and taught for wet-lab scientists with little to no ML background.
 
 **Loscalzo Lab — Brigham & Women's Hospital / Harvard Medical School · Summer 2026**
-Taught by Jonah Sandow
+Designed and Taught by Jonah Sandow
+
+Special thanks to Dr. Hau Xu, Marianna Lamanna, and Dr. Joseph Loscalzo for project guidance.
 
 ---
 
@@ -59,7 +61,7 @@ Moving from linear models to tree-based methods and ensembles — still on the s
 │   └── notebook.ipynb
 ├── session-2-trees-forests-boosting/
 │   ├── session-2-slides.pdf
-[View PDF](./session-2-slides.pdf)
+[View Session 1 Slides](./session-1-models-and-overfitting/session-1-slides.pdf)
 │   └── notebook.ipynb
 ├── assets/                # figures used in the README and slides
 └── README.md
