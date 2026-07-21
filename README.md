@@ -14,7 +14,7 @@ Special thanks to Dr. Hau Xu, Marianna Lamanna, and Dr. Joseph Loscalzo for proj
 
 This is a hands-on workshop that teaches biologists and chemists how machine learning actually works. We build a clear mental picture of each concept before any math or code. Every idea starts with a plain-English problem and a picture, uses a consistent running example (predicting whether a patient is sick or healthy from a biomarker), and pairs slides with an annotated visual. The goal is that a beginner walks away able to explain *why* a model works, not just which library function to call.
 
-Each session is a slide deck plus a companion Jupyter notebook that puts the concepts into runnable scikit-learn code.
+Each session is a slide deck plus 2 companion Jupyter notebooks. There is one practice notebook with fill in the blanks and questions and then a solutions notebook. The notebooks can be run easily in google colab (https://colab.research.google.com/) or in an ide like vscode (but then the libraries must be downloaded).
 
 
 <!-- Recruiter tip: drop a hero image here — one of your best annotated plots (e.g. the overfitting gap or the sigmoid). Replace the line below. -->
@@ -59,16 +59,19 @@ Moving from linear models to tree-based methods and ensembles — still on the s
 .
 ├── session-1-models-and-overfitting/
 │   ├── session-1-slides.pdf
-│   └── notebook.ipynb
+│   └──session-1-notebook-practice.ipynb
+│   └──session-1-notebook-solutions.ipynb
 ├── session-2-trees-forests-boosting/
 │   ├── session-2-slides.pdf
-│   └── notebook.ipynb
+│   └──session-1-notebook-practice.ipynb
+│   └──session-1-notebook-solutions.ipynb
 ├── assets/                # figures used in the README and slides
 └── README.md
 ```
 
 ### Quick Links
 * [View Session 1 Slides](./session-1-models-and-overfitting/session-1-slides.pdf)
+* 
 * [View Session 2 Slides](./session-2-trees-forests-boosting/session-2-slides.pdf)
 
 ---
