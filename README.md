@@ -3,6 +3,7 @@
 An intuition-first introduction to classical machine learning, designed and taught for wet-lab scientists with little to no ML background.
 
 **Loscalzo Lab — Brigham & Women's Hospital / Harvard Medical School · Summer 2026**
+
 Designed and Taught by Jonah Sandow
 
 Special thanks to Dr. Hau Xu, Marianna Lamanna, and Dr. Joseph Loscalzo for project guidance.
