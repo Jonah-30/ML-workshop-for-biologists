@@ -62,11 +62,14 @@ Moving from linear models to tree-based methods and ensembles — still on the s
 │   └── notebook.ipynb
 ├── session-2-trees-forests-boosting/
 │   ├── session-2-slides.pdf
-[View Session 1 Slides](./session-1-models-and-overfitting/session-1-slides.pdf)
 │   └── notebook.ipynb
 ├── assets/                # figures used in the README and slides
 └── README.md
 ```
+
+### Quick Links
+* [View Session 1 Slides](./session-1-models-and-overfitting/session-1-slides.pdf)
+* [View Session 2 Slides](./session-2-trees-forests-boosting/session-2-slides.pdf)
 
 ---
 
