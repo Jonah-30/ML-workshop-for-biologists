@@ -63,8 +63,8 @@ Moving from linear models to tree-based methods and ensembles — still on the s
 │   └──session-1-notebook-solutions.ipynb
 ├── session-2-trees-forests-boosting/
 │   ├── session-2-slides.pdf
-│   └──session-1-notebook-practice.ipynb
-│   └──session-1-notebook-solutions.ipynb
+│   └──session-2-notebook-practice.ipynb
+│   └──session-2-notebook-solutions.ipynb
 ├── assets/                # figures used in the README and slides
 └── README.md
 ```
